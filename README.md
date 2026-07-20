@@ -43,6 +43,13 @@ O modelo final apresentou uma redução de aproximadamente **33% no MAE** em rel
 
 ---
 
+### Explicabilidade da IA (SHAP)
+Abaixo, a analise do impacto das variaveis na tomada de decisão do modelo:
+
+![Análise SHAP do Modelo](shap_sellen_api.png)
+
+---
+
 ## Como executar com Docker
 
 Clone o repositório:
